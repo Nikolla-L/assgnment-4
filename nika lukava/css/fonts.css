@@ -1,0 +1,28 @@
+@font-face{
+    font-family: 'ALK Life';
+    src: url('../fonts/alk-life-webfont.eot');
+    src: url('../fonts/alk-life-webfont.svg'), 
+         url('../fonts/alk-life-webfont.ttf'),
+         url('../fonts/alk-life-webfont.woff'),
+         url('../fonts/alk-life-webfont.woff2');
+}
+@font-face{
+    font-family:'ALK Tommasso' ;
+    src: url('../fonts/tomasso/alk-tommaso-webfont.eot'),
+         url('../fonts/tomasso/alk-tommaso-webfont.svg'),
+         url('../fonts/tomasso/alk-tommaso-webfont.ttf'),
+         url('../fonts/tomasso/alk-tommaso-webfont.woff'),
+         url('../fonts/tomasso/alk-tommaso-webfont.woff2');
+}
+@font-face{
+    font-family: 'Montserrat';
+    src: url('../fonts/montserati/Montserrat-BoldItalic.eot');
+    src: url('../fonts/montserati/Montserrat-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/montserati/Montserrat-BoldItalic.woff2') format('woff2'),
+        url('../fonts/montserati/Montserrat-BoldItalic.woff') format('woff'),
+        url('../fonts/montserati/Montserrat-BoldItalic.ttf') format('truetype'),
+        url('../fonts/montserati/Montserrat-BoldItalic.svg#Montserrat-BoldItalic') format('svg');
+}
+
+
+    

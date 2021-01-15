@@ -1,0 +1,108 @@
+body{
+    margin:30px 30px;
+}
+nav{
+    display: inline-block;
+    vertical-align: 4.5px;
+ 
+}
+ul{
+    display: flex;
+    margin-left:30px;
+}
+li{
+    font-size: 22px;
+    color: #3D58A6;  
+    padding: 0 30px;
+}
+.active{
+    color:red;
+}
+section{
+    margin:50px 0;
+}
+.date{
+    background-color: #3D58A6;
+    color:white;
+    font-size:48px;
+    width:55px;
+}
+.may{
+    font-size:22px;
+    color:#3D58A6;
+    margin-top:10px;
+    font-family: "ArchyEDT-Thin", sans-serif;
+}
+.p{
+    font-size:20px;
+    margin-top:15px;
+}
+.article-img{
+    display:inline-block;
+    margin-top:13.9px;
+}
+.pp{
+    margin-top: 15px;
+    margin-left:10px;
+    width:50%;
+    display:inline-block;
+    font-size: 16px;
+    vertical-align: top;
+    text-indent: 18px;
+}
+/* <====== workout ========>
+============================================== */
+
+.spacing{
+    letter-spacing: 9px;
+    font-family: "ArchyEDT-Thin", sans-serif;
+}
+.italic{
+    font-style: italic;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.lowercase{
+    text-transform: lowercase;
+    font-family:Arial, Helvetica, sans-serif;
+}
+footer{
+    display: flex;
+}
+.divider{
+    width:2px;
+    background-color:#3D58A6;
+    margin-left:50px;
+}
+.divider::after{
+    content:url('../img/ytb.png');
+    margin-left:50px;
+}
+/* <============ fonts ==========>
+============================================*/
+
+.kart-abs0{
+    font-family: 'Roboto', sans-serif;
+}
+.kart-abs{
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.kart-relat{
+    font-family: 'ALK Life';
+}
+.latin-abs0{
+    font-family: 'Yusei Magic', sans-serif;
+}
+.latin-abs{
+    font-family: 'Roboto', sans-serif;
+}
+.kart-relat2{
+    font-family:'ALK Tommasso';
+}
+.latin-relat{
+    font-family: 'Montserrat';
+}
